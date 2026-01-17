@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-sample-sol
+sample-sol-/
 
 node_modules
 dist
